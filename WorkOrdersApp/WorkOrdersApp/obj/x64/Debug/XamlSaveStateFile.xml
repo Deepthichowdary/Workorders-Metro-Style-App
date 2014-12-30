@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\workordersapp\obj\x64\debug\intermediatexaml\workordersapp.exe" HashGuid="faa36c2f-be03-694b-6b06-4eec09397a42" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\appdata\local\microsoft sdks\windows\v8.1\extensionsdks\bing.maps.xaml\1.313.0825.0\references\commonconfiguration\neutral\bing.maps.winmd" HashGuid="dcdce9e5-521a-6d20-3956-9df814dff813" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoft.advertising.winrt.ui.winmd" HashGuid="6588494d-37e3-4bf8-bf82-6a4bc10c0818" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\msadvertisingxaml\8.1\references\commonconfiguration\neutral\microsoftadvertising.winmd" HashGuid="0dde57b7-8c99-5b9a-0771-4cdcca925c59" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\microsoft.bcl.async.1.0.168\lib\win8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\newtonsoft.json.6.0.5\lib\netcore45\newtonsoft.json.dll" HashGuid="e70f704a-5345-3796-c57b-a99765c2073e" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\developerforce.chatter.0.4.6\lib\salesforce.chatter.dll" HashGuid="d4f07aee-f164-3230-3c9b-31bcb28294eb" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\developerforce.common.0.4.10\lib\salesforce.common.dll" HashGuid="69e2c851-c130-cb6f-e737-a62c1a552f80" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\developerforce.force.0.5.3\lib\salesforce.force.dll" HashGuid="fa1e6f72-8ba1-fe6b-8fe0-509132637292" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\sruthi naresh\documents\fall 2014\project\midterm\workordersapp\workordersapp\packages\microsoft.net.http.2.2.28\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

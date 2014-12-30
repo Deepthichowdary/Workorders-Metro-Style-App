@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <RemoteDebugMachine>DeepthiTablet:4015</RemoteDebugMachine>
+    <UseAuthentication>false</UseAuthentication>
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+    <UseSimulator>false</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <RemoteDebugMachine>DeepthiTablet:4017</RemoteDebugMachine>
+    <UseAuthentication>true</UseAuthentication>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <UseSimulator>true</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <UseSimulator>true</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <RemoteDebugMachine>10.57.128.162</RemoteDebugMachine>
+    <UseAuthentication>true</UseAuthentication>
+    <RemoteDebugEnabled>true</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <RemoteDebugMachine>10.57.142.239</RemoteDebugMachine>
+    <UseAuthentication>true</UseAuthentication>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <UseSimulator>true</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86</AppxBuildConfigurationSelection>
+  </PropertyGroup>
+</Project>

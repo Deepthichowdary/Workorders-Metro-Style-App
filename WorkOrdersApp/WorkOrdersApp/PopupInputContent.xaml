@@ -1,0 +1,36 @@
+﻿<UserControl
+    x:Class="WorkOrdersApp.PopupInputContent"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorkOrdersApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="279" Width="406.5">
+
+    <Grid  Name="StandardPopup">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="274*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images/cyan1r.png"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="68,60,0,0" TextWrapping="Wrap" Text="Status :" VerticalAlignment="Top" SelectionChanged="TextBlock_SelectionChanged" Width="52" Foreground="#FF0E0A0A" Height="16"/>
+        <ComboBox HorizontalAlignment="Left" Name="StatusComboBox" SelectionChanged="StatusComboBox_SelectionChanged" Margin="138.007,57,0,0" VerticalAlignment="Top" Width="144.537" RenderTransformOrigin="0.5,0.5" Height="26" UseLayoutRounding="False" d:LayoutRounding="Auto">
+            <ComboBox.RenderTransform>
+                <CompositeTransform SkewX="-0.843" TranslateX="-0.235"/>
+            </ComboBox.RenderTransform>
+            <ComboBoxItem Name="completed">Completed</ComboBoxItem>
+            <ComboBoxItem Name="suspended">Suspended</ComboBoxItem>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" Height="15" Margin="68,116,0,0" TextWrapping="Wrap" Text="Reason :" VerticalAlignment="Top" Width="52" Foreground="#FF090202"/>
+        <TextBox HorizontalAlignment="Left" Name="ReasonTextBox" IsEnabled="False" Margin="138,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" Height="34"/>
+        <Button Content="Cancel" Click="CancelPopupClicked" HorizontalAlignment="Left" Margin="224,209,0,0" VerticalAlignment="Top" Height="35" Width="84" FontSize="14"/>
+
+        <TextBlock HorizontalAlignment="Left" Height="34" Margin="102,9,0,0" TextWrapping="Wrap" Text="Work Order Completion Status"  VerticalAlignment="Top" Width="240" FontSize="14" SelectionChanged="TextBlock_SelectionChanged_1" Foreground="#FF0D0606"/>
+        <Button Content="Submit" Click="SubmitPopupClicked" HorizontalAlignment="Left" Margin="114,209,0,0" VerticalAlignment="Top" Height="35" Width="83" FontFamily="Global User Interface" FontSize="14"/>
+
+
+    </Grid>
+</UserControl>

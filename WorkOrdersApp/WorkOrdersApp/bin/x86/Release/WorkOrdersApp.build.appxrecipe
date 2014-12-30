@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SIDHU</Machine>
+    <WindowsUser>talla_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>3df1b26f-20c9-415d-9f9a-820a21ac467c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\WorkOrdersApp.exe">
+      <PackagePath>WorkOrdersApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
+      <PackagePath>Bing.Maps.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\Microsoft.Bcl.Async.1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\Newtonsoft.Json.6.0.5\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\PortableRest.3.0.0\lib\portable-net45+sl5+wp8+win8+wpa81+MonoTouch1+MonoAndroid1\PortableRest.dll">
+      <PackagePath>PortableRest.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\DeveloperForce.Chatter.0.4.6\lib\Salesforce.Chatter.dll">
+      <PackagePath>Salesforce.Chatter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\DeveloperForce.Common.0.4.10\lib\Salesforce.Common.dll">
+      <PackagePath>Salesforce.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\DeveloperForce.Force.0.5.3\lib\Salesforce.Force.dll">
+      <PackagePath>Salesforce.Force.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\retail\x86\Bing.Maps.dll">
+      <PackagePath>Bing.Maps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.8.7.1\Redist\Retail\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Font\Bing_Maps_Symbol.ttf">
+      <PackagePath>Bing.Maps\Font\Bing_Maps_Symbol.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Blocked_Regions_01.png">
+      <PackagePath>Bing.Maps\Blocked_Regions_01.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage-noalpha.png">
+      <PackagePath>Bing.Maps\circleImage-noalpha.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\circleImage.png">
+      <PackagePath>Bing.Maps\circleImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\dashedImage.png">
+      <PackagePath>Bing.Maps\dashedImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.ps">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.ps">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.ps">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.ps">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.ps</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\BuildingShaderXYZN.vs">
+      <PackagePath>Bing.Maps\Shaders\BuildingShaderXYZN.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXY.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXY.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-Compressed.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYC.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUV.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYUVUVC.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZW.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZW.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\DefaultShaderXYZWUV.vs">
+      <PackagePath>Bing.Maps\Shaders\DefaultShaderXYZWUV.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\LineShaderXYNMC.vs">
+      <PackagePath>Bing.Maps\Shaders\LineShaderXYNMC.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader-downlevel.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader-downlevel.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shaders\TextRenderingShader.vs">
+      <PackagePath>Bing.Maps\Shaders\TextRenderingShader.vs</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\CMF.ont">
+      <PackagePath>Bing.Maps\CMF.ont</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LandmarkSchema.ont">
+      <PackagePath>Bing.Maps\LandmarkSchema.ont</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Schema.ont">
+      <PackagePath>Bing.Maps\Schema.ont</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\VenueMapsSchema.ont">
+      <PackagePath>Bing.Maps\VenueMapsSchema.ont</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EnglishEntityNames.hlx">
+      <PackagePath>Bing.Maps\EnglishEntityNames.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityLookup.hlx">
+      <PackagePath>Bing.Maps\EntityLookup.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\EntityNameLength.hlx">
+      <PackagePath>Bing.Maps\EntityNameLength.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\GermanicEntityNames.hlx">
+      <PackagePath>Bing.Maps\GermanicEntityNames.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\InvariantEntityNames.hlx">
+      <PackagePath>Bing.Maps\InvariantEntityNames.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\LatinEntityNames.hlx">
+      <PackagePath>Bing.Maps\LatinEntityNames.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameCount.hlx">
+      <PackagePath>Bing.Maps\NameCount.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\NameRoleLcid.hlx">
+      <PackagePath>Bing.Maps\NameRoleLcid.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\ScandinavianEntityNames.hlx">
+      <PackagePath>Bing.Maps\ScandinavianEntityNames.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields202.hlx">
+      <PackagePath>Bing.Maps\Shields202.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields244.hlx">
+      <PackagePath>Bing.Maps\Shields244.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Shields39.hlx">
+      <PackagePath>Bing.Maps\Shields39.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\SlavicEntityNames.hlx">
+      <PackagePath>Bing.Maps\SlavicEntityNames.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets202.hlx">
+      <PackagePath>Bing.Maps\Streets202.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets244.hlx">
+      <PackagePath>Bing.Maps\Streets244.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\Streets39.hlx">
+      <PackagePath>Bing.Maps\Streets39.hlx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h0.tile">
+      <PackagePath>Bing.Maps\h0.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h1.tile">
+      <PackagePath>Bing.Maps\h1.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h2.tile">
+      <PackagePath>Bing.Maps\h2.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\h3.tile">
+      <PackagePath>Bing.Maps\h3.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r0.tile">
+      <PackagePath>Bing.Maps\r0.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r1.tile">
+      <PackagePath>Bing.Maps\r1.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r2.tile">
+      <PackagePath>Bing.Maps\r2.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\r3.tile">
+      <PackagePath>Bing.Maps\r3.tile</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\map.config">
+      <PackagePath>Bing.Maps\map.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\Redist\CommonConfiguration\neutral\Bing.Maps\UnifiedStyle.MapStyle">
+      <PackagePath>Bing.Maps\UnifiedStyle.MapStyle</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\refresh.png">
+      <PackagePath>Images\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\camera.png">
+      <PackagePath>Images\camera.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\Done.png">
+      <PackagePath>Images\Done.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\error.png">
+      <PackagePath>Images\error.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\help.png">
+      <PackagePath>Images\help.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\login1.png">
+      <PackagePath>Images\login1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\order.png">
+      <PackagePath>Images\order.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\pda.png">
+      <PackagePath>Images\pda.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\signature.png">
+      <PackagePath>Images\signature.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\unnamed.png">
+      <PackagePath>Images\unnamed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\workercartoon.png">
+      <PackagePath>Images\workercartoon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\you3_ser_img.png">
+      <PackagePath>Images\you3_ser_img.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\cyan1r.png">
+      <PackagePath>Images\cyan1r.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\login.png">
+      <PackagePath>Images\login.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\logout.png">
+      <PackagePath>Images\logout.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\worker.png">
+      <PackagePath>Images\worker.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Images\work.gif">
+      <PackagePath>Images\work.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\Models\Messages.xml">
+      <PackagePath>Models\Messages.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\CommentsTab.xbf">
+      <PackagePath>CommentsTab.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\GetDirections.xbf">
+      <PackagePath>GetDirections.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\Help.xbf">
+      <PackagePath>Help.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\PopupInputContent.xbf">
+      <PackagePath>PopupInputContent.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\SignaturePopup.xbf">
+      <PackagePath>SignaturePopup.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\SplitPage1.xbf">
+      <PackagePath>SplitPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\Bing.Maps\Themes\Generic.xbf">
+      <PackagePath>Bing.Maps\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\WorkOrdersApp.xr.xml">
+      <PackagePath>WorkOrdersApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\talla_000\Desktop\WorkOrdersApp %282%29\WorkOrdersApp\WorkOrdersApp\WorkOrdersApp\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.12.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

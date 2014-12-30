@@ -1,0 +1,52 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WorkOrdersApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.WinRT.UI"
+    x:Class="WorkOrdersApp.WorkOrderListView"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Canvas HorizontalAlignment="Left" Height="169" VerticalAlignment="Top" Width="1356">
+            
+            <TextBlock x:ConnectionId='2' Canvas.Left="505" TextWrapping="Wrap" Text="Welcome!! " Canvas.Top="58" Height="71" Width="310" 
+                                                                     FontSize="42" 
+                       HorizontalAlignment="Center" VerticalAlignment="Center" 
+                       TextAlignment="Justify" FontFamily="Castellar"/>
+
+        </Canvas>
+        <ProgressRing Name="ProgressRing1"  IsActive="False" Height="30" Width="300"/>
+
+        <ListView x:ConnectionId='1' HorizontalContentAlignment="Stretch" Name="WOList"  HorizontalAlignment="Left" Margin="0,174,0,0" VerticalAlignment="Top"                                              >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                    <Grid Margin="1" Background="LightSlateGray">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="300"/>
+                                <ColumnDefinition Width="*"/>
+                              
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition Height="40"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0" Grid.Column="0" FontSize="22" FontFamily="{ThemeResource ContentControlThemeFontFamily}"  Grid.RowSpan="2" Text="{Binding Name}"/>
+                            <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding Work_Status__c}" FontSize="22" FontFamily="{ThemeResource ContentControlThemeFontFamily}"  Margin="10,0,0,0"/>
+                            <TextBlock Grid.Row="1" Grid.Column="0" FontSize="22" FontFamily="{ThemeResource ContentControlThemeFontFamily}" Text="{Binding WorkOrder_Start_Date__c}"/>
+                            
+
+
+
+                        </Grid>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</Page>
+
